@@ -1,6 +1,6 @@
 {
   "name": "@enk0ded/tftp",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Async-first TFTP client and server for Node.js",
   "keywords": [
     "client",
