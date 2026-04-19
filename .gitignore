@@ -1,1 +1,8 @@
-test
+node_modules
+.tftp-hpa-bin
+.tftp-hpa-cache
+
+dist
+enk0ded-tftp-*.tgz
+*.log
+.DS_Store
